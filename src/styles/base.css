@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Allan:wght@400;700&family=Sansation:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Spicy+Rice&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Sansation", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.titre {
+  font-family: "Spicy Rice", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 40px;
+  padding: 1rem;
+  width: 100%;
+}
+.fond {
+  background: salmon;
+  color: white;
+}
+.slogan {
+  padding-left: 4rem;
+}
