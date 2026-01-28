@@ -2,23 +2,8 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
   font-family: "Sansation", sans-serif;
   font-weight: 400;
   font-style: normal;
-}
-
-.titre {
-  font-family: "Spicy Rice", serif;
-  font-weight: 400;
-  font-style: normal;
-  font-size: 40px;
-  padding: 1rem;
-  width: 100%;
-}
-.fond {
-  background: salmon;
-  color: white;
-}
-.slogan {
-  padding-left: 4rem;
 }

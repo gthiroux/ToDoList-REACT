@@ -44,7 +44,6 @@ const Home = () => {
           onModif={(newName) => modifNameTask(task.id, newName)}
         />
       ))}
-    <p>test test</p>
     </div>
   );
 };

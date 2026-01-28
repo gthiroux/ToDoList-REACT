@@ -1,0 +1,21 @@
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+}
+.header__title {
+  font-family: "Spicy Rice", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 40px;
+  padding: 1rem;
+  width: 100%;
+}
+.fond {
+  background: salmon;
+  color: white;
+}
+.slogan {
+  padding-left: 4rem;
+}
